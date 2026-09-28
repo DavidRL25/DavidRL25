@@ -20,10 +20,15 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=DavidRL25&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=DavidRL25&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DavidRL25&layout=compact&theme=tokyonight&hide_border=true" alt="Idiomas principales" />
 </p>
 
 <p align="center">
